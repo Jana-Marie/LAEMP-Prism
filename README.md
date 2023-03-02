@@ -34,7 +34,7 @@ This project is an attempt to add some colored lights and interesting patterns t
 
 ### V2
 
-Please note that the E75-2G4M20S module is End of Life and is hard to obtain. I'm working on a V2.0 with STM32WB (see [MiniBee](https://github.com/Jana-Marie/MiniBee)). Hence the Hex-Base-Board is subject to be updated, all other boards shouldnt change.
+Please note that the E75-2G4M20S module is End of Life and is hard to obtain. I'm working on a V2.0 with STM32WB (see [MiniBee](https://github.com/Jana-Marie/MiniBee)). The Hex-Base-Board is henceforth subject to be updated, all other boards shouldnt change.
 
 ### Sister project
 
