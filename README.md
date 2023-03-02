@@ -36,6 +36,10 @@ This project is an attempt to add some colored lights and interesting patterns t
 
 Please note that the E75-2G4M20S module is End of Life and is hard to obtain. I'm working on a V2.0 with STM32WB (see [MiniBee](https://github.com/Jana-Marie/MiniBee)). Hence the Hex-Base-Board is subject to be updated, all other boards shouldnt change.
 
+### Sister project
+
+LAEMP-Prism is a sister project to (LAEMP-Panel)[https://github.com/Jana-Marie/LAEMP-Panel]
+
 ## Concept
 
 The overall concept was developed in OpenSCAD and a pseudo-random pattern of circles was choosen for the walls. If one wants to put effort into this project, different walls can be used. The standard base-to-wall-interface also allows for much different and custom walls. E.g. hexagonal holes, shorter or taller walls, bended walls, ...
