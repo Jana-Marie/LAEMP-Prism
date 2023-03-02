@@ -48,6 +48,14 @@ This build is definitely time-consuming, as each LAEMP Prism features 291 LEDs, 
 
 Once all eight boards are assembled (the top board has no components ^⁻^), they can be interlocked with one another. To do this, begin by plugging the LED-Base-Board into the Base-Board, and then carefully plugging wall after wall into the baseboard. Try to put the Top-Board onto the build after assembling five boards. The board with the Type-C cutout should not be the last board to assemble. Finally, try to plug in the last board. This step can be quite tricky and may require a few attempts. Once all boards are assembled, align all walls with each other and place the whole board onto the 3D printed base.
 
+You will need the following set of baords for a build:
+
+ - 1 x Base-Board
+ - 1 x Base-LED-Board
+ - 1 x Top-Board
+ - 5 x Wall-Board
+ - 1 x USB-Wall-Board
+
 <table>
   <tbody>
     <tr>
@@ -75,11 +83,25 @@ There are two firmwares to be flashed, one for the ESP32 and one for the E75-2G4
 
 ### ESP32
 
-This is a simple Arduino project and can be flashed via Arduino.
+This is a simple Arduino project and can be flashed via Arduino (initially built on Arduino 1.8.19).
 
 ### E75
 
-WIP
+Please refer to the awesome works of [PeeVeeOne](https://peeveeone.com/zll-tldr/) to flash `Light_ColorLight_JN5168_RGB` onto the E75-2G4M20S module.
+
+## Folder Structure
+
+ - 3D/				3D-Printable base, Concept
+ - design/			assets, renders
+ - images/			images for README
+ - laemp_base/ 		base board hosting the MCU(s)
+ - laemp_led_board/ LED base board, plugs directly ontop of the base board
+ - laemp_top/ 		top board, has no electrical functionality, just mechanical
+ - laemp_wall/ 		wall board, hosting 41 leds each
+ - laemp_wall_usb/ 	same wall board, but with USB cutout
+ - firmware/
+   - leamp_prism/	ESP32 FW
+   - zigbee/		E75 FW
 
 ## License
 
