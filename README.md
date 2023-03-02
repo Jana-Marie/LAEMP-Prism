@@ -2,6 +2,8 @@
 
 The LÄMP-Prism is an aesthetically pleasing and colorful effect lamp that can be used in your home. It can be controlled using Zigbee (e.g., Philips Hue) and has RGBY + WW/CW LEDs, providing a wide dynamic range and fantastic color representation. The lamp can be soldered together at home or assembled by JLCPCB.
 
+An inbuilt slow fade-animation creates plenty colored dots around the room, one can choose from three different animations by quickly bringing red from 0% to 100% and back three times. LAEMP will switch from static light, to slow-fading dots to being an RGB-beacon. Its most pleasing mode is the slow-fading animation. It is fast enough to raise the rooms texture, slow enough to not be irritating and just perfect for comfy nights.
+
 The project consists of nine PCBs that are cleverly interlocked with pinheaders and capacitors. The Prism-like shape, combined with its 291 LEDs, projects a slightly changing dotted pattern into its environment.
 
 <table>
