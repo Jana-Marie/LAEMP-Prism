@@ -95,6 +95,7 @@ Please refer to the awesome works of [PeeVeeOne](https://peeveeone.com/zll-tldr/
 
 ## Folder Structure
 
+```
  - 3D/				3D-Printable base, Concept
  - design/			assets, renders
  - images/			images for README
@@ -106,6 +107,7 @@ Please refer to the awesome works of [PeeVeeOne](https://peeveeone.com/zll-tldr/
  - firmware/
    - leamp_prism/	ESP32 FW
    - zigbee/		E75 FW
+```
 
 ## License
 
