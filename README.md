@@ -38,7 +38,7 @@ Please note that the E75-2G4M20S module is End of Life and is hard to obtain. I'
 
 ### Sister project
 
-LAEMP-Prism is a sister project to (LAEMP-Panel)[https://github.com/Jana-Marie/LAEMP-Panel]
+LAEMP-Prism is a sister project to [LAEMP-Panel](https://github.com/Jana-Marie/LAEMP-Panel)
 
 ## Concept
 
