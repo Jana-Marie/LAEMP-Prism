@@ -96,17 +96,17 @@ Please refer to the awesome works of [PeeVeeOne](https://peeveeone.com/zll-tldr/
 ## Folder Structure
 
 ```
- - 3D/				3D-Printable base, Concept
- - design/			assets, renders
- - images/			images for README
- - laemp_base/ 		base board hosting the MCU(s)
- - laemp_led_board/ LED base board, plugs directly ontop of the base board
- - laemp_top/ 		top board, has no electrical functionality, just mechanical
- - laemp_wall/ 		wall board, hosting 41 leds each
- - laemp_wall_usb/ 	same wall board, but with USB cutout
+ - 3D/               3D-Printable base, Concept
+ - design/           assets, renders
+ - images/           images for README
+ - laemp_base/       base board hosting the MCU(s)
+ - laemp_led_board/  LED base board, plugs directly ontop of the base board
+ - laemp_top/        top board, has no electrical functionality, just mechanical
+ - laemp_wall/       wall board, hosting 41 leds each
+ - laemp_wall_usb/   same wall board, but with USB cutout
  - firmware/
-   - leamp_prism/	ESP32 FW
-   - zigbee/		E75 FW
+   - leamp_prism/    ESP32 FW
+   - zigbee/         E75 FW
 ```
 
 ## License
