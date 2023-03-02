@@ -1,8 +1,8 @@
-# LAEMP-Obelisk
+# LAEMP-Prism
 
-The LÄMP-Obelisk is an aesthetically pleasing and colorful effect lamp that can be used in your home. It can be controlled using Zigbee (e.g., Philips Hue) and has RGBY + WW/CW LEDs, providing a wide dynamic range and fantastic color representation. The lamp can be soldered together at home or assembled by JLCPCB.
+The LÄMP-Prism is an aesthetically pleasing and colorful effect lamp that can be used in your home. It can be controlled using Zigbee (e.g., Philips Hue) and has RGBY + WW/CW LEDs, providing a wide dynamic range and fantastic color representation. The lamp can be soldered together at home or assembled by JLCPCB.
 
-The project consists of nine PCBs that are cleverly interlocked with pinheaders and capacitors. The obelisk-like shape, combined with its 291 LEDs, projects a slightly changing dotted pattern into its environment.
+The project consists of nine PCBs that are cleverly interlocked with pinheaders and capacitors. The Prism-like shape, combined with its 291 LEDs, projects a slightly changing dotted pattern into its environment.
 
 <table>
   <tbody>
@@ -44,7 +44,7 @@ The overall concept was developed in OpenSCAD and a pseudo-random pattern of cir
 
 ## Build
 
-This build is definitely time-consuming, as each LAEMP Obelisk features 291 LEDs, and therefore requires at least 291 100nF capacitors. Additionally, the wall PCBs are rather thin and long, making reflow difficult and assembly time-consuming.
+This build is definitely time-consuming, as each LAEMP Prism features 291 LEDs, and therefore requires at least 291 100nF capacitors. Additionally, the wall PCBs are rather thin and long, making reflow difficult and assembly time-consuming.
 
 Once all eight boards are assembled (the top board has no components ^⁻^), they can be interlocked with one another. To do this, begin by plugging the LED-Base-Board into the Base-Board, and then carefully plugging wall after wall into the baseboard. Try to put the Top-Board onto the build after assembling five boards. The board with the Type-C cutout should not be the last board to assemble. Finally, try to plug in the last board. This step can be quite tricky and may require a few attempts. Once all boards are assembled, align all walls with each other and place the whole board onto the 3D printed base.
 
