@@ -113,4 +113,21 @@ Please refer to the awesome works of [PeeVeeOne](https://peeveeone.com/zll-tldr/
 
 ## License
 
-[CERN Open Hardware Licence Version 2 - Strongly Reciprocal](/LICENSE)
+Copyright Jana Marie Hemsing 2023.
+This source describes Open Hardware and is licensed under the CERN-
+OHL-S v2.
+
+You may redistribute and modify this source and make products using it
+under the terms of the CERN-OHL-S v2
+([LICENSE](/LICENSE)).
+
+This source is distributed WITHOUT ANY EXPRESS OR IMPLIED
+WARRANTY, INCLUDING OF MERCHANTABILITY, SATISFACTORY
+QUALITY AND FITNESS FOR A PARTICULAR PURPOSE. Please see
+the CERN-OHL-S v2 for applicable conditions.
+
+Source location: https://github.com/Jana-Marie/LAEMP-Prism/
+As per CERN-OHL-S v2 section 4, should You produce hardware based
+on this source, You must where practicable maintain the Source Location
+visible on the external case of LÄMP-Prism or other products you make using
+this source
