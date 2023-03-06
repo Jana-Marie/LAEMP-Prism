@@ -95,6 +95,13 @@ This is a simple Arduino project and can be flashed via Arduino (initially built
 
 Please refer to the awesome works of [PeeVeeOne](https://peeveeone.com/zll-tldr/) to flash `Light_ColorLight_JN5168_RGB` onto the E75-2G4M20S module.
 
+## Todo
+
+ - [ ] Bug: Animation selector sucks, it gets stuck on states, needs fix.
+ - [ ] Bug: Color wheel is off
+ - [ ] Update to baseboard v2
+ 
+
 ## Folder Structure
 
 ```
