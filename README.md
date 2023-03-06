@@ -129,5 +129,5 @@ the CERN-OHL-S v2 for applicable conditions.
 Source location: https://github.com/Jana-Marie/LAEMP-Prism/
 As per CERN-OHL-S v2 section 4, should You produce hardware based
 on this source, You must where practicable maintain the Source Location
-visible on the external case of LÄMP-Prism or other products you make using
+visible on the external case of LAEMP-Prism or other products you make using
 this source
